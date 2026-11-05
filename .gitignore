@@ -1,0 +1,11 @@
+# fisiere de sistem si medii virtuale
+.DS_Store
+Thumbs.db
+__pycache__/
+venv/
+.env
+
+# fisiere generate/IDE
+.vscode/
+.idea/
+*.log
